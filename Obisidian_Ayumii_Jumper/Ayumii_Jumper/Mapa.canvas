@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"9bceb8cdd72fbd4a","type":"text","text":"Menu","x":-345,"y":-460,"width":250,"height":60,"color":"2"},
+		{"id":"b377e0eca4f94d8b","type":"text","text":"Right-bottom side","x":-540,"y":-340,"width":250,"height":60,"color":"2"},
+		{"id":"4e81a44ab7b63e49","type":"text","text":"Github?","x":-900,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"1388be5f6b7df589","type":"text","text":"Instagram","x":-900,"y":-160,"width":250,"height":60,"color":"2"},
+		{"id":"8c915db8ba92ad9c","type":"text","text":"Twitter","x":-900,"y":-490,"width":250,"height":60,"color":"2"},
+		{"id":"fb61c33440411a48","type":"text","text":"Left-bottom side","x":-25,"y":-340,"width":250,"height":60,"color":"2"},
+		{"id":"b7dcdc29568e53da","type":"text","text":"Load game","x":-220,"y":50,"width":250,"height":60,"color":"2"},
+		{"id":"3cf9af9c9810f4a6","type":"text","text":"History of the game(Beggining)","x":660,"y":20,"width":250,"height":60,"color":"2"},
+		{"id":"8c0865487246eff6","type":"text","text":"New game","x":225,"y":20,"width":250,"height":60,"color":"2"},
+		{"id":"39ae575e8f66b89a","type":"text","text":"Options","x":275,"y":-160,"width":250,"height":60,"color":"2"},
+		{"id":"b8717b3d16b49b15","type":"text","text":"Wallpapers/Gallery","x":475,"y":-430,"width":250,"height":60,"color":"2"},
+		{"id":"42dce68c072704af","type":"text","text":"Opening(Tchibunnyu)","x":-345,"y":-760,"width":250,"height":60,"color":"2"},
+		{"id":"392a61c1e71ec7b7","x":0,"y":-490,"width":250,"height":60,"color":"2","type":"text","text":"Left"},
+		{"id":"d2fbc28d5bde8ce4","type":"text","text":"Ayumii","x":350,"y":-640,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"51202348523475a1","fromNode":"8c0865487246eff6","fromSide":"right","toNode":"3cf9af9c9810f4a6","toSide":"left"},
+		{"id":"1ce1abafdcdbfbe3","fromNode":"39ae575e8f66b89a","fromSide":"bottom","toNode":"8c0865487246eff6","toSide":"top"},
+		{"id":"a914b2d735496a73","fromNode":"39ae575e8f66b89a","fromSide":"left","toNode":"b7dcdc29568e53da","toSide":"top"},
+		{"id":"77a8c2c489eb5138","fromNode":"39ae575e8f66b89a","fromSide":"top","toNode":"b8717b3d16b49b15","toSide":"bottom"},
+		{"id":"d04a5fed645bd8f5","fromNode":"9bceb8cdd72fbd4a","fromSide":"left","toNode":"b377e0eca4f94d8b","toSide":"top"},
+		{"id":"69272dcab5cd596a","fromNode":"b377e0eca4f94d8b","fromSide":"left","toNode":"8c915db8ba92ad9c","toSide":"right"},
+		{"id":"07d8003ac4f029d5","fromNode":"b377e0eca4f94d8b","fromSide":"left","toNode":"4e81a44ab7b63e49","toSide":"right"},
+		{"id":"dc69241467edc715","fromNode":"b377e0eca4f94d8b","fromSide":"left","toNode":"1388be5f6b7df589","toSide":"right"},
+		{"id":"4d27011e6bf4d219","fromNode":"42dce68c072704af","fromSide":"bottom","toNode":"9bceb8cdd72fbd4a","toSide":"top"},
+		{"id":"702f655db18d17c5","fromNode":"9bceb8cdd72fbd4a","fromSide":"right","toNode":"fb61c33440411a48","toSide":"left"},
+		{"id":"994fcba1630462c3","fromNode":"fb61c33440411a48","fromSide":"right","toNode":"39ae575e8f66b89a","toSide":"top"},
+		{"id":"f8b3816666907cde","fromNode":"9bceb8cdd72fbd4a","fromSide":"right","toNode":"392a61c1e71ec7b7","toSide":"left"},
+		{"id":"45239e07f1c6f545","fromNode":"392a61c1e71ec7b7","fromSide":"right","toNode":"d2fbc28d5bde8ce4","toSide":"bottom"}
+	]
+}

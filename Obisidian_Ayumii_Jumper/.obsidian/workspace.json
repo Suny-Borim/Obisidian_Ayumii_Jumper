@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "31e40313b3e31692",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20c5a08d53751eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d57eab87c06001",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ayumii_Jumper/Mapa.canvas",
+                "viewState": {
+                  "x": 5,
+                  "y": -325,
+                  "zoom": -0.9620980247828813
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e006708e8d923990",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a5072ce79da50c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "264da1e6bf43f271",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7c33949b82aa5e1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f45f78c211b44ae7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f0cdecc3115587c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9059c09cef77c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f8d31afb74bf798",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ayumii_Jumper/Mapa.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mapa"
+            }
+          },
+          {
+            "id": "2c78832ad7413a7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ayumii_Jumper/Mapa.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mapa"
+            }
+          },
+          {
+            "id": "d5870729aa45702f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff35b7c27c448681",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ayumii_Jumper/Mapa.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mapa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35d57eab87c06001",
+  "lastOpenFiles": [
+    "Ayumii_Jumper/Main Menu.md",
+    "Ayumii_Jumper/Mapa.canvas",
+    "Obisidian_guide/Untitled.canvas",
+    "Untitled.md",
+    "Obisidian_guide",
+    "Godot",
+    "C#",
+    "Ayumii_Jumper"
+  ]
+}
