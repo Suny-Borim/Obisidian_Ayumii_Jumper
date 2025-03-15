@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Ayumii_Jumper/Mapa.canvas",
+                "file": "Obisidian_guide/map guide.canvas",
                 "viewState": {
-                  "x": 5,
-                  "y": -325,
-                  "zoom": -0.9620980247828813
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.4075926871176794
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mapa"
+              "title": "map guide"
             }
           }
         ]
@@ -171,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35d57eab87c06001",
+  "active": "264da1e6bf43f271",
   "lastOpenFiles": [
     "Ayumii_Jumper/Main Menu.md",
-    "Ayumii_Jumper/Mapa.canvas",
-    "Obisidian_guide/Untitled.canvas",
+    "Ayumii_Jumper/Map.canvas",
+    "Obisidian_guide/map guide.canvas",
     "Untitled.md",
     "Obisidian_guide",
     "Godot",
